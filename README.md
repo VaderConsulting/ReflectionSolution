@@ -22,6 +22,10 @@ Parallel C# and VB.NET learning solution. Each language has an abstract `Templat
 
 Open `ReflectionSolution.sln` in Visual Studio 2008 or later. Run CSharpApplication or VBApplication.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `ReflectionSolution`). Assembly copyright 2008.
