@@ -28,6 +28,8 @@ Open `ReflectionSolution.sln` in Visual Studio 2008 or later. Run CSharpApplicat
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `ReflectionSolution`). Assembly copyright 2008.
 
 ## License
